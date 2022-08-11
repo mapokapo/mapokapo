@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Leo
 - 👀 I’m interested in **Full Stack Web** and **Mobile App** Development!
 - 🌱 I’m currently learning NestJS and using it to make cross-platform REST APIs
-- ✨ I want to learn a lot more about backend development, especially using GraphQL!
+- ✨ I want to learn a lot more about backend development, especially using GraphQL
 - 💞️ I’m looking to collaborate on the Flutter and NodeJS ecosystem
 - 📫 Contact me: leopetrovic11@gmail.com
