@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Leo
 - 👀 I’m interested in **Full Stack Web** Development!
-- 🌱 I’m currently learning KoaJS and using it to make cross-platform REST APIs
+- 🌱 I’m currently learning Hono and using it to make cross-platform REST APIs
 - ✨ I want to learn a lot more about backend development
-- 💞️ I’m looking to collaborate on the Flutter and NodeJS ecosystem
+- 💞️ I’m looking to collaborate on the Flutter, Bun, and Hono projects
 - 📫 Contact me: leopetrovic11@gmail.com
