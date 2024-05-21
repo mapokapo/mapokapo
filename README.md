@@ -1,6 +1,7 @@
 - 👋 Hi, my name is Leo
 - 👀 I’m interested in **Full Stack Web** Development!
-- 🌱 I’m currently learning Hono and using it to make cross-platform REST APIs
-- ✨ I want to learn a lot more about backend development
-- 💞️ I’m looking to collaborate on the Flutter, Bun, and Hono projects
+- 🌱 I’m currently learning **Spring Boot** and using it to make robust REST APIs
+- 📈 My favorite frameworks are **Spring Boot**, **Hono**, **Flutter**, and **React**
+- ✨ I want to learn a lot more about securing REST APIs
+- 💞️ I’m looking to collaborate on the **Flutter**, **Bun**, and **Hono** projects
 - 📫 Contact me: leopetrovic11@gmail.com
