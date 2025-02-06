@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Leo!
 
+###
+
 🎓 Computer Science student at the University of Mostar (FSRE).  
 💻 Passionate about web development, Linux server administration, real-time systems, and software engineering.  
 🌱 Currently learning **.NET Core**.
@@ -15,4 +17,19 @@
 - LinkedIn: [Leo Petrović](https://www.linkedin.com/in/leo-petrovi%C4%87-7047b1162/)  
 - Website: [leopetrovic.vercel.app](https://leopetrovic.vercel.app/)  
 
-_"If you wish to make an apple pie from scratch, you must first invent the universe."_ 
+<br />
+
+<div align="center">
+  <i>"If you wish to make an apple pie from scratch, you must first invent the universe."</i>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mapokapo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mapokapo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
