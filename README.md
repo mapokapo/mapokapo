@@ -3,7 +3,7 @@
 ###
 
 🎓 Computer Science student at the University of Mostar (FSRE).  
-🏢 Backend Developer at Sportradar, iGaming and Solutions.
+🏢 Backend Developer at Sportradar, iGaming and Solutions.  
 💻 Passionate about web development, Linux server administration, real-time systems, and software engineering.  
 🌱 Currently learning **Java Quarkus**.
 
