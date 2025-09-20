@@ -1,10 +1,14 @@
-### About me
+### My name is Leo!
+
+I am a software developer focused on making useful tools for myself and others while providing exemplary results.
+
+I work with Java (Spring Boot, Quarkus) TypeScript, HTML+CSS+JS, React, React Native, Expo, Next.js, Nuxt, Vue, Flutter, Python.
+
+#### Education and experience
 
 Computer Science student at the University of Mostar (FSRE).
 
 Backend Developer at Sportradar, iGaming and Solutions.
-
-Software developer skilled in many areas.
 
 ### 📫 Get in Touch  
 - Email: [leo.petrovic@fsre.sum.ba](mailto:leo.petrovic@fsre.sum.ba)  
