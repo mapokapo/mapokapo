@@ -8,7 +8,7 @@ I work with Java (Spring Boot, Quarkus) TypeScript, HTML+CSS+JS, React, React Na
 
 Computer Science student at the University of Mostar (FSRE).
 
-Backend Developer at Sportradar, iGaming and Solutions.
+Backend Developer at Sportradar, iGaming and Platforms.
 
 ### 📫 Get in Touch  
 - Email: [leo.petrovic@fsre.sum.ba](mailto:leo.petrovic@fsre.sum.ba)  
